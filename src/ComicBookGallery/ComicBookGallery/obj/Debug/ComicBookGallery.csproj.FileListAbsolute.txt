@@ -13,14 +13,6 @@ C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGal
 C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\ComicBookGallery.dll.config
 C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\ComicBookGallery.dll
 C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\ComicBookGallery.pdb
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Helpers.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Mvc.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Razor.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.Deployment.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.dll
-C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.Razor.dll
 C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Razor.xml
 C:\Users\Owner\Source\Repos\comic-book-gallery\src\ComicBookGallery\ComicBookGallery\bin\System.Web.Webpages.xml
